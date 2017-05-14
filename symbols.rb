@@ -7,4 +7,4 @@ puts hash[:name]
 
 puts hash[:email]
 
-puts "added one line to experiment"
+puts "added one line to experiment #{test}"
